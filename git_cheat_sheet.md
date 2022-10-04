@@ -11,6 +11,7 @@ git pull <origin> <branch>
 ```
 
 view changes not staged for commit 
+** don't for get to change the branch to main **
 ```
 git status
 ```
