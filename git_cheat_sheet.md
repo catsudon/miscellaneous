@@ -21,4 +21,9 @@ view changes
 git diff <file/path>
 ```
 
+merge with current branch
+```
+git merge <branch>
+```
+
 
